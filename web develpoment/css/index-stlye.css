@@ -1,0 +1,62 @@
+h1 {
+    margin: 0;
+    margin-top: 0;
+}
+
+body {
+    margin: 0;
+}
+
+.blue {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 200px;
+    left: 200px;
+    top: 200px;
+}
+
+.red {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 400px;
+    top: 400px;
+}
+
+.yellow {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+}
+
+
+/* previous module work for margin and the stair like postionning of the box */
+
+
+/* #top-container {
+    background-color: #E4F9F5;
+    border: solid 10px;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+}
+
+#middle-container {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border: solid 20px;
+    margin-left: 260px;
+}
+
+#bottom-container {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    margin-left: 500px;
+} */

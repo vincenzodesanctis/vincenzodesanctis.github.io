@@ -1,0 +1,37 @@
+
+//installing express(in every project)
+npm install express
+
+//installing nodemon(Once in life time only)
+npm install -g nodemon
+
+//Want to start cacl.js??
+nodemon calc.js
+
+// To retrive(Parse) the data from html page install body parser.
+
+npm install body-parser
+
+
+// git intitializing
+git init
+
+//git adding for stagin area
+git add
+
+//git commit to the local repo.
+git commit -m "//message goes here"
+
+//git status ( to check the staus of the changed fiels)
+
+//git log ( To see whoch foles are commited on which time)
+
+//git diff filename (To see the previous commited difference in file)
+
+//git checkout filename (To rollback the file with previous most changes made in it)
+
+//git remote add to the remote repo.
+git remote add git url #url of git repo. goes here with .git at the end
+
+//git push to the remote repo.
+git push -u origin master

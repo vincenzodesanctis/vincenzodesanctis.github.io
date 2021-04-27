@@ -1,0 +1,26 @@
+hr {
+    border-style: dotted;
+    border-width: 5px;
+    border-top: 3px;
+    border-color: #6f9a8d;
+    width: 5%;
+    border-width: 5px;
+}
+
+body {
+    background-color: #eafbea;
+}
+
+h1,
+h3 {
+    color: #66BFBF;
+}
+
+a:hover {
+    color: red;
+}
+
+#submit-button:hover {
+    background-color: burlywood;
+    color: darkred;
+}

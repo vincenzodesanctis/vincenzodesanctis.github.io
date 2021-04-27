@@ -1,0 +1,133 @@
+#title {
+    background-color: #0F70C2;
+    color: #fff;
+}
+
+h1 {
+    font-size: 260%;
+    font-family: 'Raleway', sans-serif;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 200%;
+    line-height: 1.5;
+}
+
+.container-fluid {
+    padding: 3% 13%;
+}
+
+.icon {
+    color: #0F70C2;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: rgb(0, 140, 255);
+}
+
+#feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+p {
+    color: rgb(129, 124, 124);
+}
+
+
+/* navigation-bar */
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.nav-link {
+    font-size: 1.5rem;
+    font-family: 'Lato', sans-serif;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.title-image {
+    transform: rotate(25deg);
+    width: 450px;
+    border-radius: 50%;
+}
+
+#features {
+    padding: 7% 15%;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+.navbar-brand {
+    font-family: 'Lato', sans-serif;
+    font-size: 250%;
+    font-weight: bold;
+}
+
+#testimonials {
+    text-align: center;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(96, 165, 230);
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.testimonial-image {
+    border-radius: 100%;
+    width: 100px;
+    margin: 20px;
+}
+
+#press {
+    padding-bottom: 3%;
+    text-align: center;
+    background-color: rgb(96, 165, 230);
+}
+
+.company-logo {
+    width: 10%;
+    margin: 20px 20px 15px;
+}
+
+.pricing-coloumn {
+    padding: 3% 2%;
+}
+
+#cta {
+    text-align: center;
+    padding: 7% 15%;
+    background-color: rgb(96, 165, 230);
+}
+
+.cta-heading {
+    font-family: 'Lato', sans-serif;
+    font-size: 250%;
+}
+
+.cta-icons {
+    margin: 7px 10px;
+}
+
+#footer {
+    text-align: center;
+    padding: 7% 15%;
+    font-family: 'Lato', sans-serif;
+    font-size: large;
+}
