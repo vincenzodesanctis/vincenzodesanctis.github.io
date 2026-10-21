@@ -1,0 +1,17 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Trova l'h2 della biografia
+    var h2 = document.querySelector('.resume-biography h2');
+    if (h2) {
+        // Itera sui nodi figli per trovare il nodo di testo (saltando l'icona SVG)
+        for (var i = 0; i < h2.childNodes.length; i++) {
+            var node = h2.childNodes[i];
+            if (node.nodeType === Node.TEXT_NODE && node.textContent.trim() !== '') {
+                // Sostituisce il testo mantenendo l'icona
+                node.textContent = ' Executive Summary'; 
+                break;
+            }
+        }
+    }
+});
+</script>

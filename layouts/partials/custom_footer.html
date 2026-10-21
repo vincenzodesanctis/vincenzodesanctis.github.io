@@ -1,0 +1,13 @@
+<!-- Script per attivare il carosello (Lightbox) -->
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const lightbox = GLightbox({
+      selector: '.glightbox',
+      touchNavigation: true, // Abilita lo swipe su mobile
+      loop: true,            // Permette di ricominciare dall'inizio
+      zoomable: true,        // Permette lo zoom con la rotella
+      draggable: true        // Permette di trascinare l'immagine
+    });
+  });
+</script>

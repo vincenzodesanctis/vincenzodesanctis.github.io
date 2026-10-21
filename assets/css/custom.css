@@ -1,0 +1,464 @@
+/* LAYOUT GALLERIA CERTIFICAZIONI */
+.full-bleed { width: 100vw !important; position: relative !important; left: 50% !important; margin-left: -50vw !important; max-width: 100vw !important; padding: 0 2rem !important; }
+.full-bleed .cert-grid { display: grid !important; grid-template-columns: repeat(4, 1fr) !important; gap: 1.5rem !important; align-items: start !important; max-width: 1400px !important; margin: 0 auto !important; }
+.cert-thumb-box { aspect-ratio: 16 / 9 !important; width: 100%; background-color: #f8fafc; border-radius: 0.5rem; overflow: hidden; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); padding: 0.25rem; }
+.cert-thumb-img { width: 100%; height: 100%; object-fit: contain !important; }
+body.lightbox-active header, body.lightbox-active nav, body.lightbox-active .navbar { display: none !important; }
+body.lightbox-active { overflow: hidden !important; }
+
+/* Riduce drasticamente il gap tra la navbar e il blocco della biografia */
+section:has(.resume-biography),
+#section-resume-biography-3 {
+    padding-top: 4rem !important;
+    margin-top: 0 !important;
+}
+
+/* Riduce anche il padding interno del blocco */
+.resume-biography {
+    padding-top: 0 !important;
+}
+
+/* Rimuove la sottolineatura dai link all'interno dei blocchi di testo (es. lista certificazioni) */
+.prose a {
+    text-decoration: none !important;
+    transition: color 0.2s ease-in-out;
+}
+
+/* Aggiunge un leggero cambio di colore al passaggio del mouse per far capire che è cliccabile */
+.prose a:hover {
+    color: var(--color-primary-600) !important;
+}
+
+/* Rimpicciolisce SOLO il nome (Vincenzo De Sanctis) */
+.resume-biography h1,
+.resume-biography .name {
+    line-height: 1.2 !important;
+}
+
+/* Rimpicciolisce SOLO il ruolo (Senior Systems...) */
+.resume-biography .role,
+.resume-biography .text-primary-600 {
+    font-size: 1.1rem !important; 
+    line-height: 1.4 !important;
+    font-weight: 600 !important;
+}
+
+/* Forza il nome su due righe, mantenendolo centrato */
+.resume-biography h1.name {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    line-height: 1.1 !important;
+}
+
+/* Forza il nome a mandare a capo "Vincenzo" e "De Sanctis" */
+.resume-biography h1 {
+    max-width: 240px !important; /* Larghezza sufficiente per "Vincenzo" e "De Sanctis" ma non per tutta la frase */
+    margin-left: auto !important;
+    margin-right: auto !important;
+    line-height: 1.1 !important;
+    text-align: center !important;
+}
+
+/* Forza il nome su due righe (Vincenzo / De Sanctis) */
+.resume-biography h1 {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    line-height: 1.2 !important;
+    text-align: center !important;
+}
+
+/* Forza il nome a mandare a capo "Vincenzo" e "De Sanctis" */
+.resume-biography h1 {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    line-height: 1.2 !important;
+    text-align: center !important;
+}
+
+/* Forza il nome a mandare a capo "Vincenzo" e "De Sanctis" */
+.resume-biography h1 {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    line-height: 1.2 !important;
+    text-align: center !important;
+}
+
+/* Ripristina il font originale grande, mantenendo l'a capo */
+.resume-biography h1 {
+    font-size: 3rem !important; /* Dimensione grande originale */
+    margin-left: auto !important;
+    margin-right: auto !important;
+    line-height: 1.1 !important;
+    text-align: center !important;
+}
+
+/* Mantiene il font grande e allarga il contenitore per far stare "De Sanctis" intero */
+.resume-biography h1 {
+    font-size: 3rem !important; 
+    max-width: 220px !important; 
+    margin-left: auto !important;
+    margin-right: auto !important;
+    line-height: 1.1 !important;
+    text-align: center !important;
+}
+
+/* Aumenta leggermente il ruolo e forza il rispetto degli a capo */
+.resume-biography .role,
+.resume-biography .text-primary-600 {
+    font-size: 1.3rem !important; /* Dimensione leggermente più grande */
+    white-space: pre-line !important; /* Rispetta l'a capo inserito in me.yaml */
+    line-height: 1.4 !important;
+    font-weight: 600 !important;
+}
+
+/* 1. Compattiamo il nome e riduciamo lo spazio tra le righe */
+.resume-biography h1 {
+    line-height: 1.0 !important;
+    margin-bottom: 0.5rem !important;
+}
+
+/* 2. Rendiamo il testo del Summary più leggibile (interlinea e dimensione) */
+.resume-biography p {
+    font-size: 1.05rem !important;
+    line-height: 1.7 !important;
+}
+
+/* 3. Rendiamo le card dell'Education più ariose (più padding e testo più grande) */
+.resume-biography .grid > div {
+    padding: 1.5rem !important;
+}
+.resume-biography .grid h4 {
+    font-size: 1.1rem !important;
+}
+.resume-biography .grid p {
+    font-size: 0.95rem !important;
+    line-height: 1.5 !important;
+}
+
+/* 1. Compattiamo il nome riducendo l'interlinea */
+.resume-biography h1 {
+    line-height: 1.1 !important;
+    margin-bottom: 0.2rem !important;
+}
+
+/* 2. Ingrandiamo leggermente il ruolo */
+.resume-biography .role,
+.resume-biography .text-primary-600 {
+    font-size: 1.4rem !important; 
+}
+
+/* 3. Aumentiamo l'interlinea del testo del Summary */
+.resume-biography p {
+    line-height: 1.7 !important;
+}
+
+/* 4. Diamo più respiro alle card dell'Education e ingrandiamo i testi */
+.resume-biography .grid > div {
+    padding: 1.75rem !important;
+}
+.resume-biography .grid h4 {
+    font-size: 1.15rem !important;
+}
+.resume-biography .grid p {
+    font-size: 1rem !important;
+}
+
+/* 1. Compattiamo il nome riducendo l'interlinea (come nel demo) */
+.resume-biography h1 {
+    line-height: 1.1 !important;
+    margin-bottom: 0.2rem !important;
+}
+
+/* 2. Ingrandiamo leggermente il ruolo per dargli più impatto */
+.resume-biography .role,
+.resume-biography .text-primary-600 {
+    font-size: 1.4rem !important; 
+}
+
+/* 3. Aumentiamo l'interlinea del testo del Summary per respirare meglio */
+.resume-biography p {
+    line-height: 1.7 !important;
+}
+
+/* 4. Diamo più respiro alle card dell'Education e ingrandiamo i testi */
+.resume-biography .grid > div {
+    padding: 1.75rem !important;
+}
+.resume-biography .grid h4 {
+    font-size: 1.15rem !important;
+}
+.resume-biography .grid p {
+    font-size: 1rem !important;
+}
+
+/* 1. Spinge le icone social a stare tutte su una sola riga */
+.resume-biography .flex-wrap {
+    gap: 0.5rem !important; /* Riduce lo spazio tra le icone */
+    justify-content: center !important; /* Le centra perfettamente */
+}
+.resume-biography .flex-wrap a {
+    margin: 0 !important; /* Rimuove margini extra che causano l'a capo */
+}
+
+/* 2. Riduce lo spazio vuoto tra la navbar e la biografia */
+section:has(.resume-biography) {
+    padding-top: 1rem !important; 
+}
+
+/* Riduce drasticamente il gap verticale tra la biografia e la timeline Experience */
+section:has(.resume-biography) {
+    padding-bottom: 0rem !important;
+    margin-bottom: 0 !important;
+}
+
+#section-resume-experience {
+    padding-top: 3rem !important;
+    margin-top: 0 !important;
+}
+
+/* Forza la riduzione del gap colpendo sezioni e contenitori interni */ 
+#section-resume-biography-3,
+#section-resume-experience {
+    padding-top: 3rem !important;
+    padding-bottom: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 1rem !important;
+    min-height: 0 !important;
+} 
+
+/* Colpisce i div interni che contengono i padding (py-16, py-24, ecc.) */ 
+#section-resume-biography-3 > div,
+#section-resume-experience > div {
+    padding-top: 0 !important;
+    padding-bottom: 2.5rem !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+/* Riduce il gap tra la fine della timeline e la sezione Credenziali */
+#section-resume-experience {
+    padding-bottom: 0.5rem !important;
+    margin-bottom: 0 !important;
+}
+
+#section-markdown {
+    padding-top: 2.5rem !important;
+    margin-top: 3rem !important;
+}
+
+/* Forza a zero i margini interni dei contenitori di queste sezioni */
+#section-resume-experience > div,
+#section-markdown > div {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+/* Riduce il padding (era più grande) */
+    font-size: 0.875rem !important;  /* Rimpicciolisce il testo */
+}
+
+/* Allinea i tag degli interessi a sinistra */
+.resume-biography .flex-wrap {
+    justify-content: flex-start !important;
+}
+
+/* Nasconde il titolo nativo del tema per la biografia */
+.resume-biography h2 {
+    display: none !important;
+}
+.resume-biography h2 { display: block !important; }
+
+/* Ripristina lo spazio in alto per la pagina Experience (come in Credentials) */
+#section-resume-experience {
+    margin-top: 1rem !important;
+    padding-top: 4rem !important; 
+}
+
+/* Assicuriamoci che i contenitori interni non creino spazi extra indesiderati */
+#section-resume-experience > div {
+    padding-top: 0 !important;
+}
+
+/* Elimina il gap eccessivo tra Skills e Awards */
+#section-resume-skills {
+    padding-bottom: 2rem !important;
+    margin-bottom: 1.5rem !important;
+}
+
+#section-resume-awards {
+    padding-top: 2rem !important; /* Lasciamo solo 32px di respiro invece di 96px */
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+#section-resume-languages {
+    padding-top: 0 !important; /* Lasciamo solo 32px di respiro invece di 96px */
+    margin-top: 0 !important;
+}
+
+/* Nasconde la data e il tempo di lettura nella pagina Request CV */
+.page-request-cv .page-metadata,
+.page-request-cv .article-metadata,
+.page-request-cv .reading-time {
+    display: none !important;
+}
+
+/* Nasconde forzatamente il blocco metadati in tutte le pagine standard */
+main .page-metadata,
+main .article-metadata {
+    display: none !important;
+}
+
+/* Riduce drasticamente il gap sotto il titolo della pagina Request CV */
+.page-request-cv h1, 
+main h1 {
+    margin-bottom: 1rem !important;
+}
+
+/* Forza il titolo della pagina su una sola riga e ne riduce leggermente la dimensione */
+main h1, 
+.page-title,
+.article-title {
+    white-space: nowrap !important; /* Impedisce l'a capo */
+    font-size: 2.5rem !important;   /* Riduce leggermente la dimensione (di default è 3rem) */
+    letter-spacing: -0.02em !important; /* Rende il testo un po' più compatto */
+}
+
+/* Su smartphone o schermi piccoli, permettiamo di nuovo l'a capo per non sforare lo schermo */
+@media (max-width: 768px) {
+    main h1, 
+    .page-title,
+    .article-title {
+        white-space: normal !important;
+        font-size: 1.8rem !important;
+    }
+}
+
+/* Forza la pagina Request CV ad essere larga */
+.page-request-cv .max-w-prose,
+.page-request-cv .container {
+    max-width: 100% !important;
+}
+
+/* Forza la pagina Request CV ad essere larga */
+main .prose {
+    max-width: 100% !important;
+}
+
+/* Forza il contenitore principale della pagina CV ad essere largo */
+.page-request-cv main,
+.page-request-cv .container,
+.page-request-cv .prose {
+    max-width: 100% !important;
+    width: 100% !important;
+}
+
+/* Avvicina il titolo al box del modulo */
+main h1, 
+.page-title {
+    margin-bottom: 0.5rem !important;
+}
+
+/* Azzera il margine inferiore del titolo nella pagina Request CV */
+h1, .page-title {
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+/* Riduce lo spazio superiore della sezione che contiene il modulo */
+main {
+    padding-top: 1rem !important;
+}
+
+/* Elimina lo spazio extra (mt-4 mb-16) causato dal contenitore del tema */
+body.page-request-cv .mt-4.mb-16,
+body.page-request-cv main > div,
+body.page-request-cv .container {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+/* Avvicina ulteriormente il titolo al box */
+body.page-request-cv h1 {
+    margin-bottom: 0.5rem !important;
+}
+
+/* Rimuove il gap tra il titolo e il box nella pagina Request CV */
+body.page-request-cv main {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+
+body.page-request-cv h1 {
+    margin-bottom: 0.25rem !important;   /* Riduce lo spazio sotto il titolo */
+    padding-bottom: 0 !important;
+}
+
+/* Riduce anche lo spazio del contenitore che avvolge il modulo */
+body.page-request-cv .container,
+body.page-request-cv .max-w-5xl {
+    margin-top: 0 !important;
+}
+
+/* Rimuove il gap tra titolo e modulo nella pagina Request CV */
+main:has(#cv-form) > h1 {
+    margin-top: 0 !important;
+    margin-bottom: 1.5rem !important;
+}
+
+main:has(#cv-form) > h1 + div {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding: 0 !important;
+}
+
+main:has(#cv-form) {
+    padding-top: 0.5rem !important;
+}
+
+/* Centra il titolo nella pagina Request CV */
+main:has(#cv-form) > h1 {
+    text-align: center !important;
+}
+
+/* Riduce i pulsanti Download CV e Contact Me (dimensione bilanciata) */
+.resume-biography a[href$="/request-cv/"],
+.resume-biography a[href^="mailto:"] {
+    padding: 0.6rem 1.2rem !important;
+    font-size: 0.95rem !important;
+}
+
+.resume-biography a[href$="/request-cv/"] svg {
+    width: 1.1rem !important;
+    height: 1.1rem !important;
+}
+
+/* Ritocco: pulsanti un po' più grandi */
+.resume-biography a[href$="/request-cv/"],
+.resume-biography a[href^="mailto:"] {
+    padding: 0.7rem 1.4rem !important;
+    font-size: 1rem !important;
+}
+
+.resume-biography a[href$="/request-cv/"] svg {
+    width: 1.2rem !important;
+    height: 1.2rem !important;
+}
+
+/* Fix per l'icona email mancante */
+a[href^="mailto:"] svg {
+    display: none !important; /* Nasconde l'eventuale SVG vuoto */
+}
+a[href^="mailto:"]::before {
+    content: "✉"; /* Inserisce la busta unicode */
+    font-size: 1.2rem;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: currentColor;
+}

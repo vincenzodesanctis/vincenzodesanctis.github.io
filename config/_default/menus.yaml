@@ -1,0 +1,10 @@
+main:
+  - name: Profile
+    url: '/#about'
+    weight: 10
+  - name: Experience
+    url: '/experience/'
+    weight: 20
+  - name: Credentials
+    url: '/certifications/'
+    weight: 30

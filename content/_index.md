@@ -1,0 +1,58 @@
+---
+# Leave the homepage title empty to use the site title
+title: ''
+summary: ''
+date: 2022-10-24
+type: landing
+
+sections:
+  - block: resume-biography-3
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: me
+      text: ''
+      # Show a call-to-action button under your biography? (optional)
+      button:
+        text: Download CV
+        url: request-cv/
+      headings:
+        about: 'Executive Summary'
+        education: ''
+        interests: ''
+    design:
+      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
+      background:
+        gradient_mesh:
+          enable: true
+
+      # Name heading sizing to accommodate long or short names
+      name:
+        size: md # Options: xs, sm, md, lg (default), xl
+
+      # Avatar customization
+      avatar:
+        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        shape: circle # Options: circle (default), square, rounded
+        # Usiamo me-work per mostrare solo l'esperienza lavorativa (senza l'education)
+  - block: resume-experience
+    content:
+      username: me-work
+    design:
+      date_format: 'January 2006'
+      is_education_first: false
+
+
+
+  # Sezione delle certificazioni con il link
+  - block: markdown
+    content:
+      title: 'Professional Credentials'
+      subtitle: '30 years of continuous learning and validated expertise.'
+      text: |-
+        Over three decades, I have earned more than <a href="/certifications/" style="text-decoration: none !important; font-weight: bold; color: inherit;"><span class="text-primary-600 dark:text-primary-400 font-bold">474 verified credentials</span></a> across Cloud Computing (AWS, Azure, GCP), Cybersecurity (CompTIA, ISC2, eJPT), Project Management (Six Sigma, PMI), and Data Science. Each certification reflects my commitment to staying at the forefront of technology.
+      button:
+        text: Explore All Credentials
+        url: /certifications/
+    design:
+      columns: '1'
+---

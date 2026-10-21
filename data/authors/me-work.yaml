@@ -1,0 +1,40 @@
+experience:
+  - role: "Applied Research & Advanced Studies"
+    org: "Independent"
+    start: "2026-08-01"
+    summary: |2-
+      - Conducting independent research in AI-driven cyber defense, focusing on autonomous incident response, AI governance, and securing complex OT/Cloud architectures
+      - Completing dual M.S. degrees in Cybersecurity (Georgia Tech, Information Security track) and Financial Engineering (WorldQuant University)
+      - Validating theoretical frameworks through hands-on offensive/defensive labs, bug bounty programs, and CTF competitions
+
+  - role: "Amazon IT Engineer"
+    org: "Amazon Logistics, Fulfillment Robotics Center PSR2"
+    start: "2022-03-01"
+    end: "2026-08-01"
+    summary: |2-
+      - Led incident response for the central and southern Italy cluster, handling high-severity (Sev 1-2) incidents
+      - Coordinated, as EU project lead, an AI/ML vision inspection system for automatic package defect detection
+      - Designed and built internal automation tools and software with agentic AI (Amazon Kiro, Bedrock, Quick Suite), improving team productivity (2025-26)
+      - Supervised the on-site IT technical team and coordinated local IT operations
+      - Launch team member for the full IT infrastructure of PSR2 San Salvo and the new network infrastructure at DPU1 Bitonto and DRU1 San Giovanni Teatino
+      - Wrote SOPs and automation scripts (Python, Bash, AWS internal tools) to scale team knowledge management
+      - Worked on joint projects with Amazon’s Cyber Security, Linux and Data Analysis teams
+
+  - role: "Senior System & Network Administrator"
+    org: "DENSO Manufacturing Italia"
+    start: "1999-09-01"
+    end: "2022-01-01"
+    summary: |2-
+      - Administered Windows Server, Linux (Red Hat, CentOS) and UNIX (Solaris) systems with VMware virtualization, plus Cisco networking, firewalls and VPNs, across 800+ physical hosts including 65 servers
+      - Led Factory 4.0 initiatives integrating IIoT, MES and SCADA systems via OPC-UA and MQTT, with Google Cloud
+      - Designed enterprise integration between forest-level Active Directory and POSIX Linux (Winbind, SSSD, UID/GID mapping)
+      - Delivered cloud solutions on Microsoft 365 (SaaS) and GCP (PaaS)
+      - Recognized in Jan 2022 as the longest-tenured member of the ICT & IoT group
+
+  - role: "ServiceDesk and Sysadmin Support"
+    org: "Magneti Marelli"
+    start: "1997-10-01"
+    end: "1999-09-01"
+    summary: |2-
+      - Service desk and sysadmin support for the R&D Engineering Services division
+      - Previously (Apr 1996 – Sep 1997): computer-aided defect detection for Quality Assurance

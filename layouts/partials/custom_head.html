@@ -1,0 +1,10 @@
+<!-- CSS del carosello e CSS personalizzato -->
+<link rel="stylesheet" href="/css/glightbox.min.css" />
+{{ $css := resources.Get "css/custom.css" }}
+{{ if $css }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+{{ end }}
+
+<!-- JS del carosello e JS personalizzato -->
+<script src="/js/glightbox.min.js" defer></script>
+<script src="/js/my-lightbox.js" defer></script>

@@ -1,0 +1,152 @@
+title: Vincenzo's portfolio
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Vincenzo De Sanctis
+  given: Vincenzo
+  family: De Sanctis
+  alternate: ''  # Example: 王伟
+  pronunciation: ''  # Example: Wáng Wěi
+  pronouns: he/him
+postnominals:
+  - PhD
+  - MIEEE
+status:
+#  icon: brands/google
+  icon: ""
+role: |- 
+  Enterprise Security Architect
+  Cloud Security & AI-Driven Cyber Defense
+bio: |-
+ Enterprise Security Architect with 30 years of experience spanning industrial OT/ICS, multi-cloud infrastructure, and applied AI. I bring deep expertise in securing complex environments—from SCADA/MES integration to leading Sev 1-2 incident response at Amazon Logistics.
+
+ A specialist in both building with and securing AI, I develop agentic defense tools and coordinate AI/ML security projects. I am currently completing dual M.S. degrees at Georgia Tech (Cybersecurity) and WorldQuant University (Financial Engineering) to further advance AI-driven cyber defense and governance.
+
+organizations: []
+
+#affiliations:
+#  - name: Meta AI
+#    url: https://ai.meta.com/
+
+links:
+  - icon: envelope
+    url: mailto:vsanctis3@gatech.edu
+    label: E-mail Me
+  - icon: brands/x
+    url: https://x.com/DesanctisV
+  - icon: brands/github
+    url: https://github.com/vincenzodesanctis
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/vincenzo-de-sanctis
+
+education:
+    - degree: MS Cybersecurity
+      institution: Georgia Institute of Technology
+      start: 2026-01-12
+      end: [present]
+    - degree: MS Financial Engineering
+      institution: WorldQuant University
+      start: 2026-03-20
+      end: [present]
+    - degree: BS Computer Science
+      institution: University of the People
+      start: 2022-01-27
+      end: 2025-04-02
+
+interests:
+  - AI for Cyber Defense
+  - AI Security & Governance
+  - Multi-Cloud (AWS, Azure, GCP)
+  - OT/ICS Industrial Cybersecurity
+  - Zero Trust Architecture
+  - IAM
+  - Defense in Depth
+  - Threat Hunting & Intelligence
+  - Malware Analysis
+  - Privilege Escalation 
+  - Exploitation
+  - Quantitative Risk Modelling
+  - DevSecOps & CI/CD Security
+
+experience:
+  - role: Applied Research & Advanced Studies
+    org: Independent
+    start: 2026-08-01
+    summary: |2-
+      - Conducting independent research in AI-driven cyber defense, focusing on autonomous incident response, AI governance, and securing complex OT/Cloud architectures
+      - Completing dual M.S. degrees in Cybersecurity (Georgia Tech, Information Security track) and Financial Engineering (WorldQuant University)
+      - Validating theoretical frameworks through hands-on offensive/defensive labs, bug bounty programs, and CTF competitions
+
+  - role: Amazon IT Engineer
+    org: Amazon Logistics, Fulfillment Robotics Center PSR2
+    start: 2022-03-01
+    end: 2026-08-01
+    summary: |2-
+      - Led incident response for the central and southern Italy cluster, handling high-severity (Sev 1-2) incidents
+      - Coordinated, as EU project lead, an AI/ML vision inspection system for automatic package defect detection
+      - Designed and built internal automation tools and software with agentic AI (Amazon Kiro, Bedrock, Quick Suite), improving team productivity (2025-26)
+      - Supervised the on-site IT technical team and coordinated local IT operations
+      - Launch team member for the full IT infrastructure of PSR2 San Salvo and the new network infrastructure at DPU1 Bitonto and DRU1 San Giovanni Teatino
+      - Wrote SOPs and automation scripts (Python, Bash, AWS internal tools) to scale team knowledge management
+      - Worked on joint projects with Amazon’s Cyber Security, Linux and Data Analysis teams
+
+  - role: Senior System & Network Administrator
+    org: DENSO Manufacturing Italia
+    start: 1999-09-01
+    end: 2022-01-01
+    summary: |2-
+      - Administered Windows Server, Linux (Red Hat, CentOS) and UNIX (Solaris) systems with VMware virtualization, plus Cisco networking, firewalls and VPNs, across 800+ physical hosts including 65 servers
+      - Led Factory 4.0 initiatives integrating IIoT, MES and SCADA systems via OPC-UA and MQTT, with Google Cloud
+      - Designed enterprise integration between forest-level Active Directory and POSIX Linux (Winbind, SSSD, UID/GID mapping)
+      - Delivered cloud solutions on Microsoft 365 (SaaS) and GCP (PaaS)
+      - Recognized in Jan 2022 as the longest-tenured member of the ICT & IoT group
+
+  - role: ServiceDesk and Sysadmin Support
+    org: Magneti Marelli
+    start: 1997-10-01
+    end: 1999-09-01
+    summary: |2-
+      - Service desk and sysadmin support for the R&D Engineering Services division
+      - Previously (Apr 1996 – Sep 1997): computer-aided defect detection for Quality Assurance
+
+skills:
+  - name: Tech & Cloud
+    items:
+      - label: Security
+        level: 5
+      - label: Cloud
+        level: 4
+      - label: Electronics
+        level: 4
+  - name: Leadership & Ops
+    items:
+      - label: Leadership
+        level: 5
+      - label: Resilience (BC/DR)
+        level: 5
+      - label: Incident Mgmt
+        level: 4
+
+
+awards:
+  - title: Amazon Best Write Award
+    awarder: Amazon PSR2
+    date: "2025-01-30"
+    summary: Recognized for writing the highest number of Change Management documents.
+    icon: brands/google
+    url: "/media/awards/amazon_award.jpg"
+  - title: DMIT Award - Smart Work Introduction
+    awarder: DENSO Manufacturing Italia
+    date: "2021-01-01"
+    summary: Awarded for the rapid introduction of Smart Work during the COVID-19 emergency, building a transparent structure that integrated Linux and Microsoft Domain systems.
+    icon: brands/google
+    url: "/media/awards/denso_award.jpg"
+
+languages:
+  - name: Italian
+    level: 5
+    label: Native
+  - name: English
+    level: 3.9
+    label: Professional Working Proficiency

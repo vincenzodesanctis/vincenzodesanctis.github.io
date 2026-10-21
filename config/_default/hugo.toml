@@ -1,0 +1,6 @@
+[security.exec]
+  allow = ['^(dart-)?sass$', '^go$', '^git$', '^node$', '^postcss$', '^tailwindcss$', '^npx$']
+
+
+[markup.goldmark.renderer]
+  unsafe = true
