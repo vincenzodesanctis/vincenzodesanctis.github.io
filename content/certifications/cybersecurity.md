@@ -1,10 +1,10 @@
 ---
-title: "Cybersecurity (87)"
+title: "Cybersecurity (109)"
 type: landing
 sections:
   - block: markdown
     content:
-      title: "Cybersecurity (87)"
+      title: "Cybersecurity (109)"
       text: |
         <div class="full-bleed mt-8 mb-12 not-prose">
           <div class="cert-grid">
@@ -350,11 +350,23 @@ sections:
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Mathematical Foundations for Cryptography</span>
             </a>
+            <a href="/media/albums/certifications/cybersecurity/adversarial_ai___attacking,_defending_&_governing_ml_systems_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/adversarial_ai___attacking,_defending_&_governing_ml_systems_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/adversarial_ai___attacking,_defending_&_governing_ml_systems_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Adversarial AI: Attacking, Defending & Governing ML Systems</span>
+            </a>
             <a href="/media/albums/certifications/cybersecurity/cybrary_cert_career_crash_course_network_engineering_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/cybrary_cert_career_crash_course_network_engineering_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
               <div class="cert-thumb-box">
                 <img src="/media/albums/certifications/cybersecurity/cybrary_cert_career_crash_course_network_engineering_thumb.webp" class="cert-thumb-img" />
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Network Engineering</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/exploiting_and_securing_ai_mcp_systems_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/exploiting_and_securing_ai_mcp_systems_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/exploiting_and_securing_ai_mcp_systems_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Exploiting and Securing AI-MCP Systems</span>
             </a>
             <a href="/media/albums/certifications/cybersecurity/183465509_10226545071119666_1837350764591296921_n_10226545070999663_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/183465509_10226545071119666_1837350764591296921_n_10226545070999663_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
               <div class="cert-thumb-box">
@@ -452,6 +464,72 @@ sections:
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Security Architecture - Secure Network Design for CompTIA SecurityX</span>
             </a>
+            <a href="/media/albums/certifications/cybersecurity/adversarial_robustness_toolbox_(art)_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/adversarial_robustness_toolbox_(art)_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/adversarial_robustness_toolbox_(art)_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Adversarial Robustness Toolbox (ART)</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/buffer_overflow_for_offensive_security_professionals_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/buffer_overflow_for_offensive_security_professionals_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/buffer_overflow_for_offensive_security_professionals_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Buffer Overflow for Offensive Security Professionals</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/building_agentic_ai_for_cybersecurity_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/building_agentic_ai_for_cybersecurity_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/building_agentic_ai_for_cybersecurity_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Building Agentic AI for Cybersecurity</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/cryptographic_algorithms_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/cryptographic_algorithms_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/cryptographic_algorithms_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Cryptographic Algorithms</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/detecting_ai_driven_attacks_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/detecting_ai_driven_attacks_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/detecting_ai_driven_attacks_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Detecting AI-Driven Attacks</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/llm_jailbreaking_defense_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/llm_jailbreaking_defense_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/llm_jailbreaking_defense_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">LLM Jailbreaking Defense</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/llm_prompt_injection___attacks_and_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/llm_prompt_injection___attacks_and_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/llm_prompt_injection___attacks_and_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">LLM Prompt Injection: Attacks and Defense</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/malware_analysis___assembly_basics_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/malware_analysis___assembly_basics_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/malware_analysis___assembly_basics_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Malware Analysis: Assembly Basics</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/security_risks_and_privacy_concerns_using_generative_ai_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/security_risks_and_privacy_concerns_using_generative_ai_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/security_risks_and_privacy_concerns_using_generative_ai_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Security Risks and Privacy in Generative AI</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/specialized_exploits___stack_overflows_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/specialized_exploits___stack_overflows_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/specialized_exploits___stack_overflows_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Specialized Exploits: Stack Overflows</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/windows_buffer_overflow_walkthrough_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/windows_buffer_overflow_walkthrough_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/windows_buffer_overflow_walkthrough_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Windows Buffer Overflow Walkthrough</span>
+            </a>
             <a href="/media/albums/certifications/cybersecurity/the_nis2_directive_course_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/the_nis2_directive_course_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
               <div class="cert-thumb-box">
                 <img src="/media/albums/certifications/cybersecurity/the_nis2_directive_course_thumb.webp" class="cert-thumb-img" />
@@ -506,6 +584,12 @@ sections:
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">CompTIA PenTest+ - 2 tests</span>
             </a>
+            <a href="/media/albums/certifications/cybersecurity/exploit_development___tutorial_for_hackers_and_pentesters_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/exploit_development___tutorial_for_hackers_and_pentesters_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/exploit_development___tutorial_for_hackers_and_pentesters_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Exploit Development for Hackers and Pentesters</span>
+            </a>
             <a href="/media/albums/certifications/cybersecurity/ultimate_aws_certified_security_speciality_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/ultimate_aws_certified_security_speciality_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
               <div class="cert-thumb-box">
                 <img src="/media/albums/certifications/cybersecurity/ultimate_aws_certified_security_speciality_thumb.webp" class="cert-thumb-img" />
@@ -529,6 +613,54 @@ sections:
                 <img src="/media/albums/certifications/cybersecurity/183606336_10226545560891910_1129668687255792553_n_10226545560851909_thumb.webp" class="cert-thumb-img" />
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">A Disaster Journey of Malicious Malware</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/aisec___introduction_to_ai_security_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/aisec___introduction_to_ai_security_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/aisec___introduction_to_ai_security_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AISEC: Introduction to AI Security</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/certified_llm_security_expert_(cllmse)_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/certified_llm_security_expert_(cllmse)_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/certified_llm_security_expert_(cllmse)_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Certified LLM Security Expert (CLLMSE)</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/certified_llm_security_professional_(cllmsp)_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/certified_llm_security_professional_(cllmsp)_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/certified_llm_security_professional_(cllmsp)_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Certified LLM Security Professional (CLLMSP)</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/certified_online_fraud_prevention_specialist_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/certified_online_fraud_prevention_specialist_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/certified_online_fraud_prevention_specialist_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Certified Online Fraud Prevention Specialist</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/cscso_certified_sme_cyber_security_officer_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/cscso_certified_sme_cyber_security_officer_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/cscso_certified_sme_cyber_security_officer_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">CSCSO Certified SME Cyber Security Officer</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/cwl_certified_ai_security_fundamentals_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/cwl_certified_ai_security_fundamentals_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/cwl_certified_ai_security_fundamentals_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">CWL Certified AI Security Fundamentals</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/cybersecurity_architecture_mindset_unlocked___secure_design_mastery_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/cybersecurity_architecture_mindset_unlocked___secure_design_mastery_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/cybersecurity_architecture_mindset_unlocked___secure_design_mastery_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Cybersecurity Architecture Mindset Unlocked</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/hackviser___core_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/hackviser___core_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/hackviser___core_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Hackviser - Core</span>
             </a>
           </div>
         </div>

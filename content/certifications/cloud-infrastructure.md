@@ -1,10 +1,10 @@
 ---
-title: "Cloud & Infrastructure (63)"
+title: "Cloud & Infrastructure (91)"
 type: landing
 sections:
   - block: markdown
     content:
-      title: "Cloud & Infrastructure (63)"
+      title: "Cloud & Infrastructure (91)"
       text: |
         <div class="full-bleed mt-8 mb-12 not-prose">
           <div class="cert-grid">
@@ -67,6 +67,18 @@ sections:
                 <img src="/media/albums/certifications/cloud_infrastructure/172542229_10226353530851279_5986457067624870300_n_10226353530811278_thumb.webp" class="cert-thumb-img" />
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Aviatrix Cerified Engineer - Multi-cloud Networking Associate</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/scs_c02___aws_certified_security___specialty_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/scs_c02___aws_certified_security___specialty_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/scs_c02___aws_certified_security___specialty_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS Certified Security - Specialty (SCS-C02)</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/certified_cloud_security_professional_(ccsp)_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/certified_cloud_security_professional_(ccsp)_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/certified_cloud_security_professional_(ccsp)_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Certified Cloud Security Professional (CCSP)</span>
             </a>
             <a href="/media/albums/certifications/cloud_infrastructure/1_contender_badge_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/1_contender_badge_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
               <div class="cert-thumb-box">
@@ -163,6 +175,42 @@ sections:
                 <img src="/media/albums/certifications/cloud_infrastructure/152189799_10225965876120153_1539673046336978179_n_10225965876080152_thumb.webp" class="cert-thumb-img" />
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Microsoft Power Platform Foundations</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/building_a_cloud_architecture_diagram_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/building_a_cloud_architecture_diagram_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/building_a_cloud_architecture_diagram_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Building a Cloud Architecture Diagram</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/certificate_of_cloud_security_knowledge_ccsk_cert_prep_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/certificate_of_cloud_security_knowledge_ccsk_cert_prep_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/certificate_of_cloud_security_knowledge_ccsk_cert_prep_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">CCSK Cert Prep</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/cloud_architecture_advanced_concepts_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/cloud_architecture_advanced_concepts_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/cloud_architecture_advanced_concepts_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Cloud Architecture Advanced Concepts</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/cloud_architecture_design_decisions_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/cloud_architecture_design_decisions_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/cloud_architecture_design_decisions_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Cloud Architecture Design Decisions</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/cloud_security_architecture_for_the_enterprise_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/cloud_security_architecture_for_the_enterprise_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/cloud_security_architecture_for_the_enterprise_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Cloud Security Architecture for the Enterprise</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/build_an_enterprise_cloud_architecture_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/build_an_enterprise_cloud_architecture_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/build_an_enterprise_cloud_architecture_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Build an Enterprise Cloud Architecture</span>
             </a>
             <a href="/media/albums/certifications/cloud_infrastructure/39742481_10217306672205467_3134686803018121216_n_10217306672165466_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/39742481_10217306672205467_3134686803018121216_n_10217306672165466_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
               <div class="cert-thumb-box">
@@ -320,6 +368,108 @@ sections:
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Preparing for the AZ-900 Microsoft Azure Fundamentals Exam</span>
             </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/aws_iam___the_cloud_engineers_security_handbook_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/aws_iam___the_cloud_engineers_security_handbook_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/aws_iam___the_cloud_engineers_security_handbook_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS IAM: Cloud Engineers Security Handbook</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/ccsp___cloud_application_security_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/ccsp___cloud_application_security_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/ccsp___cloud_application_security_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">CCSP - Cloud Application Security</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/ccsp___cloud_concepts,_architecture_and_design_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/ccsp___cloud_concepts,_architecture_and_design_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/ccsp___cloud_concepts,_architecture_and_design_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">CCSP - Cloud Concepts, Architecture & Design</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/ccsp___cloud_data_security_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/ccsp___cloud_data_security_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/ccsp___cloud_data_security_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">CCSP - Cloud Data Security</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/ccsp___cloud_platform_and_infrastructure_security_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/ccsp___cloud_platform_and_infrastructure_security_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/ccsp___cloud_platform_and_infrastructure_security_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">CCSP - Cloud Platform & Infrastructure Security</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/ccsp___cloud_security_operations_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/ccsp___cloud_security_operations_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/ccsp___cloud_security_operations_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">CCSP - Cloud Security Operations</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/ccsp___legal,_risk,_and_compliance_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/ccsp___legal,_risk,_and_compliance_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/ccsp___legal,_risk,_and_compliance_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">CCSP - Legal, Risk & Compliance</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/managing_incident_response,_iam,_and_aws_service_security_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/managing_incident_response,_iam,_and_aws_service_security_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/managing_incident_response,_iam,_and_aws_service_security_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Managing Incident Response, IAM & AWS Security</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/protecting_data,_logging,_and_monitoring_in_aws_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/protecting_data,_logging,_and_monitoring_in_aws_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/protecting_data,_logging,_and_monitoring_in_aws_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Protecting Data, Logging & Monitoring in AWS</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/securing_hosts,_network,_and_edge_in_aws_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/securing_hosts,_network,_and_edge_in_aws_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/securing_hosts,_network,_and_edge_in_aws_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Securing Hosts, Network & Edge in AWS</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)___reliability_and_business_continuity_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)___reliability_and_business_continuity_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)___reliability_and_business_continuity_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS SysOps - Reliability & Business Continuity</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)___security_and_compliance_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)___security_and_compliance_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)___security_and_compliance_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS SysOps - Security & Compliance</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___introduction_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___introduction_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___introduction_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS SysOps Administrator: Introduction</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)___networking_and_content_delivery_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)___networking_and_content_delivery_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)___networking_and_content_delivery_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS SysOps - Networking & Content Delivery</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)_storage_and_data_management_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)_storage_and_data_management_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)_storage_and_data_management_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS Certified SysOps Administrator - Associate - Storage and Data Management</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)___preparing_for_the_exam_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)___preparing_for_the_exam_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)___preparing_for_the_exam_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS SysOps - Preparing for the Exam</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)___monitoring,_logging,_and_remediation_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)___monitoring,_logging,_and_remediation_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)___monitoring,_logging,_and_remediation_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS SysOps - Monitoring & Logging</span>
+            </a>
             <a href="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)_introduction_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)_introduction_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
               <div class="cert-thumb-box">
                 <img src="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)_introduction_thumb.webp" class="cert-thumb-img" />
@@ -368,11 +518,29 @@ sections:
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS Certified SysOps Administrator - Associate - Security and Compliance</span>
             </a>
-            <a href="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)_storage_and_data_management_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)_storage_and_data_management_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+            <a href="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)__cost_and_performance_optimization_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)__cost_and_performance_optimization_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
               <div class="cert-thumb-box">
-                <img src="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)_storage_and_data_management_thumb.webp" class="cert-thumb-img" />
+                <img src="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)__cost_and_performance_optimization_thumb.webp" class="cert-thumb-img" />
               </div>
-              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS Certified SysOps Administrator - Associate - Storage and Data Management</span>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS SysOps - Cost & Performance Optimization</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)___deployment,_provisioning,_and_automation_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)___deployment,_provisioning,_and_automation_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/aws_certified_sysops_administrator___associate_(soa_c02)___deployment,_provisioning,_and_automation_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS SysOps - Deployment & Automation</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/cloud_security_operations_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/cloud_security_operations_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/cloud_security_operations_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Cloud Security Operations</span>
+            </a>
+            <a href="/media/albums/certifications/cloud_infrastructure/hands_on_developement_in_aws_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/hands_on_developement_in_aws_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cloud_infrastructure/hands_on_developement_in_aws_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Hands-on Development in AWS</span>
             </a>
             <a href="/media/albums/certifications/cloud_infrastructure/106398874_10223873585174187_2891128057450902988_n_10223873585134186_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cloud_infrastructure/106398874_10223873585174187_2891128057450902988_n_10223873585134186_large.webp', 'cloud-infrastructure');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cloud-infrastructure">
               <div class="cert-thumb-box">

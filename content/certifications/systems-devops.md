@@ -1,10 +1,10 @@
 ---
-title: "Systems, Networking & DevOps (71)"
+title: "Systems, Networking & DevOps (73)"
 type: landing
 sections:
   - block: markdown
     content:
-      title: "Systems, Networking & DevOps (71)"
+      title: "Systems, Networking & DevOps (73)"
       text: |
         <div class="full-bleed mt-8 mb-12 not-prose">
           <div class="cert-grid">
@@ -61,6 +61,12 @@ sections:
                 <img src="/media/albums/certifications/systems_devops/coursera_mhrdlfz7guky_thumb.webp" class="cert-thumb-img" />
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">System Administration and IT Infrastructure</span>
+            </a>
+            <a href="/media/albums/certifications/systems_devops/dive_into_kubernetes___containers,_docker_&_kubernetes_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/systems_devops/dive_into_kubernetes___containers,_docker_&_kubernetes_large.webp', 'systems-devops');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="systems-devops">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/systems_devops/dive_into_kubernetes___containers,_docker_&_kubernetes_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Dive Into Kubernetes, Docker & Containers</span>
             </a>
             <a href="/media/albums/certifications/systems_devops/109931655_10224089112242229_761518573207245910_n_10224089112202228_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/systems_devops/109931655_10224089112242229_761518573207245910_n_10224089112202228_large.webp', 'systems-devops');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="systems-devops">
               <div class="cert-thumb-box">
@@ -139,6 +145,12 @@ sections:
                 <img src="/media/albums/certifications/systems_devops/certificateofcompletion_prepare_for_the_linux_professional_institute_lpic1_101500_and_102500_exams_1_thumb.webp" class="cert-thumb-img" />
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Prepare for the Linux Profesional Institute LPIC-1 exam</span>
+            </a>
+            <a href="/media/albums/certifications/systems_devops/linux_security_techniques_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/systems_devops/linux_security_techniques_large.webp', 'systems-devops');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="systems-devops">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/systems_devops/linux_security_techniques_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Linux Security Techniques</span>
             </a>
             <a href="/media/albums/certifications/systems_devops/36535778_10216908445090038_1490215061707292672_n_10216908445050037_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/systems_devops/36535778_10216908445090038_1490215061707292672_n_10216908445050037_large.webp', 'systems-devops');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="systems-devops">
               <div class="cert-thumb-box">

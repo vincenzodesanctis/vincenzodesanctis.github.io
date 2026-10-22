@@ -69,6 +69,13 @@ TITLE_MAPPING = {
     "coursera_google_data_analytics": "Google Data Analytics",
     "coursera_ibm_data_science": "IBM Data Science",
     "uopeople___webinar": "AI and the future of work - Preparing for the AI-Driven job market in Computer Science",
+    "aws_generative_ai_essentials": "AWS Generative AI Essentials",
+    "everything_you_need_to_know_about_the_aws_certified_ai_practitioner_exam": "AWS Certified AI Practitioner Exam Prep",
+    "everything_you_need_to_know_about_the_aws_certified_machine_learning_engineer___associate_exam": "AWS Certified ML Engineer Exam Prep",
+    "generative_ai_applications_with_amazon_bedrock": "Generative AI with Amazon Bedrock",
+    "getting_started_with_aws_generative_ai_for_developers": "AWS Generative AI for Developers",
+    "perplexity___advanced_features": "Perplexity - Advanced Features",
+
 
     # --- Cloud Infrastructure ---
     "106398874_10223873585174187_2891128057450902988_n_10223873585134186": "Microsoft Office 365 - Work smarter and more productive",
@@ -134,6 +141,34 @@ TITLE_MAPPING = {
     "microsoft_certified_professional_certificate_0": "Microsoft Certified Power Platform Fundamentals",
     "microsoft_certified_professional_certificate_az900": "Microsoft Certified Azure Fundamentals",
     "microsoft_pl_100t00_832632": "Power Platform App Maaker (A)",
+    "aws_certified_sysops_administrator___associate_(soa_c02)__cost_and_performance_optimization": "AWS SysOps - Cost & Performance Optimization",
+    "aws_certified_sysops_administrator___associate_(soa_c02)___deployment,_provisioning,_and_automation": "AWS SysOps - Deployment & Automation",
+    "aws_certified_sysops_administrator___associate_(soa_c02)___monitoring,_logging,_and_remediation": "AWS SysOps - Monitoring & Logging",
+    "aws_certified_sysops_administrator___associate_(soa_c02)___networking_and_content_delivery": "AWS SysOps - Networking & Content Delivery",
+    "aws_certified_sysops_administrator___associate_(soa_c02)___preparing_for_the_exam": "AWS SysOps - Preparing for the Exam",
+    "aws_certified_sysops_administrator___associate_(soa_c02)___reliability_and_business_continuity": "AWS SysOps - Reliability & Business Continuity",
+    "aws_certified_sysops_administrator___associate_(soa_c02)___security_and_compliance": "AWS SysOps - Security & Compliance",
+    "aws_certified_sysops_administrator___introduction": "AWS SysOps Administrator: Introduction",
+    "aws_iam___the_cloud_engineers_security_handbook": "AWS IAM: Cloud Engineers Security Handbook",
+    "build_an_enterprise_cloud_architecture": "Build an Enterprise Cloud Architecture",
+    "building_a_cloud_architecture_diagram": "Building a Cloud Architecture Diagram",
+    "ccsp___cloud_application_security": "CCSP - Cloud Application Security",
+    "ccsp___cloud_concepts,_architecture_and_design": "CCSP - Cloud Concepts, Architecture & Design",
+    "ccsp___cloud_data_security": "CCSP - Cloud Data Security",
+    "ccsp___cloud_platform_and_infrastructure_security": "CCSP - Cloud Platform & Infrastructure Security",
+    "ccsp___cloud_security_operations": "CCSP - Cloud Security Operations",
+    "ccsp___legal,_risk,_and_compliance": "CCSP - Legal, Risk & Compliance",
+    "certificate_of_cloud_security_knowledge_ccsk_cert_prep": "CCSK Cert Prep",
+    "certified_cloud_security_professional_(ccsp)": "Certified Cloud Security Professional (CCSP)",
+    "cloud_architecture_advanced_concepts": "Cloud Architecture Advanced Concepts",
+    "cloud_architecture_design_decisions": "Cloud Architecture Design Decisions",
+    "cloud_security_architecture_for_the_enterprise": "Cloud Security Architecture for the Enterprise",
+    "cloud_security_operations": "Cloud Security Operations",
+    "hands_on_developement_in_aws": "Hands-on Development in AWS",
+    "managing_incident_response,_iam,_and_aws_service_security": "Managing Incident Response, IAM & AWS Security",
+    "protecting_data,_logging,_and_monitoring_in_aws": "Protecting Data, Logging & Monitoring in AWS",
+    "scs_c02___aws_certified_security___specialty": "AWS Certified Security - Specialty (SCS-C02)",
+    "securing_hosts,_network,_and_edge_in_aws": "Securing Hosts, Network & Edge in AWS",
 
     # --- Cybersecurity ---
     "102570861_10223604100597241_6867421825621565979_n_10223604100557240": "Software Ethical Hacking - Crack Legally",
@@ -223,6 +258,28 @@ TITLE_MAPPING = {
     "uc_6d62b568_737c_45df_9a1f_f7fb4a284f45": "Cyber Security - Intermediate Linux Commands",
     "uc_777536ee_1536_4798_8f44_9ae6783ec71f": "CompTIA PenTest+ - 2 tests",
     "ultimate_aws_certified_security_speciality": "Ultimate AWS Certified Security Speciality",
+    "adversarial_ai___attacking,_defending_&_governing_ml_systems": "Adversarial AI: Attacking, Defending & Governing ML Systems",
+    "adversarial_robustness_toolbox_(art)": "Adversarial Robustness Toolbox (ART)",
+    "aisec___introduction_to_ai_security": "AISEC: Introduction to AI Security",
+    "buffer_overflow_for_offensive_security_professionals": "Buffer Overflow for Offensive Security Professionals",
+    "building_agentic_ai_for_cybersecurity": "Building Agentic AI for Cybersecurity",
+    "certified_llm_security_expert_(cllmse)": "Certified LLM Security Expert (CLLMSE)",
+    "certified_llm_security_professional_(cllmsp)": "Certified LLM Security Professional (CLLMSP)",
+    "certified_online_fraud_prevention_specialist": "Certified Online Fraud Prevention Specialist",
+    "cryptographic_algorithms": "Cryptographic Algorithms",
+    "cscso_certified_sme_cyber_security_officer": "CSCSO Certified SME Cyber Security Officer",
+    "cwl_certified_ai_security_fundamentals": "CWL Certified AI Security Fundamentals",
+    "cybersecurity_architecture_mindset_unlocked___secure_design_mastery": "Cybersecurity Architecture Mindset Unlocked",
+    "detecting_ai_driven_attacks": "Detecting AI-Driven Attacks",
+    "exploit_development___tutorial_for_hackers_and_pentesters": "Exploit Development for Hackers and Pentesters",
+    "exploiting_and_securing_ai_mcp_systems": "Exploiting and Securing AI-MCP Systems",
+    "hackviser___core": "Hackviser - Core",
+    "llm_jailbreaking_defense": "LLM Jailbreaking Defense",
+    "llm_prompt_injection___attacks_and": "LLM Prompt Injection: Attacks and Defense",
+    "malware_analysis___assembly_basics": "Malware Analysis: Assembly Basics",
+    "security_risks_and_privacy_concerns_using_generative_ai": "Security Risks and Privacy in Generative AI",
+    "specialized_exploits___stack_overflows": "Specialized Exploits: Stack Overflows",
+    "windows_buffer_overflow_walkthrough": "Windows Buffer Overflow Walkthrough",
 
     # --- Management Leadership ---
     "107383559_10223947804509624_2797494995150696872_n_10223947804469623": "Systems Thinking",
@@ -349,6 +406,9 @@ TITLE_MAPPING = {
     "uc_8ec7a776_5286_4928_b2b8_354c2259da67": "Neuroplasticity - How to Rewire Your Brain",
     "uc_cf0636bb_94f8_4304_ab66_6c9c5770e861": "Le parole che fanno la differenza",
     "vincenzo_de_sanctis_baap_cert": "Microsoft Advertising Certified Professional",
+    "is_college_still_worth_it_real_answers_about_careers_and_the_future_of_work": "Is College Still Worth It?",
+    "pmi_certified_member": "PMI Certified Member",
+
 
     # --- Other Certifications ---
     "36477826_10216908447850107_1770199281039310848_n_10216908447770105": "Electronics Fundamentals",
@@ -358,6 +418,9 @@ TITLE_MAPPING = {
     "95353443_10223227676306869_8948776897672642560_n_10223227676266868": "Class 12 Physiscs",
     "certificate_for_vincenzo_de_sanctis_for__national_level_quiz_series_..._": "Covid-19",
     "z1ov8s7": "ShapeAI",
+    "foundations_of_financial_engineering": "Foundations of Financial Engineering",
+    "pluralsight_skills": "Pluralsight Skills",
+
 
     # --- Software Development ---
     "10295022_10208417312577032_5399965260611005692_o_10208417312577032": "Python Tutorial course",
@@ -419,8 +482,11 @@ TITLE_MAPPING = {
     "python_function_cybersec": "Python Functions and Libraries for Cybersecurity",
     "uc_b99547c6_e157_4a40_a73c_0ae4ccab7fde": "C Programming on Windows for Beginners",
     "vincenzode_sanctis_pcap___programmi_certificate": "PCAP Programming Essentials in Python",
+    "c_foundations___pointers_and_memory_management": "C Foundations: Pointers & Memory Management",
+    "resource_development_with_gdb": "Resource Development with GDB",
 
-    # --- Systems Devops ---
+
+    # --- Systems, Networking & Devops ---
     "109931655_10224089112242229_761518573207245910_n_10224089112202228": "vSphere 6.7 Foundations - Storage",
     "115690666_10224123783908999_1879655921763072234_n_10224123783868998": "Windows Server 2016 - Storage Services",
     "121067271_10224809500131476_3003340234422721450_n_10224809500091475": "Cert Prep - LPIC-1 Exam 101",
@@ -492,5 +558,7 @@ TITLE_MAPPING = {
     "coursera_twgttr9uuhkw": "Google IT Support",
     "ct_c_912418_vincenzo_de_sanctis": "SC-900 Microsoft Security, Compliance, and Identity Fundamentals",
     "migrating_from_microsoft_nt_4_to_windows_server_2003_directory_services_(2004)": "MOC2283 - Migrating from Microsoft Windows NT 4.0 to Microsoft Windows Server 2003 Directory SErvices",
-"educazione_finanziaria_attestato_di_partecipazione": "Educazione finanziaria",
+    "educazione_finanziaria_attestato_di_partecipazione": "Educazione finanziaria",
+    "dive_into_kubernetes___containers,_docker_&_kubernetes": "Dive Into Kubernetes, Docker & Containers",
+    "linux_security_techniques": "Linux Security Techniques",
 }

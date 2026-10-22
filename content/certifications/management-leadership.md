@@ -1,10 +1,10 @@
 ---
-title: "Management & Leadership (124)"
+title: "Management & Leadership (126)"
 type: landing
 sections:
   - block: markdown
     content:
-      title: "Management & Leadership (124)"
+      title: "Management & Leadership (126)"
       text: |
         <div class="full-bleed mt-8 mb-12 not-prose">
           <div class="cert-grid">
@@ -49,6 +49,12 @@ sections:
                 <img src="/media/albums/certifications/management_leadership/48364259_10218156661934679_7984619776955645952_n_10218156661814676_thumb.webp" class="cert-thumb-img" />
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Management Skills & Leadership Development letter</span>
+            </a>
+            <a href="/media/albums/certifications/management_leadership/pmi_certified_member_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/management_leadership/pmi_certified_member_large.webp', 'management-leadership');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="management-leadership">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/management_leadership/pmi_certified_member_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">PMI Certified Member</span>
             </a>
             <a href="/media/albums/certifications/management_leadership/google_project_management_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/management_leadership/google_project_management_large.webp', 'management-leadership');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="management-leadership">
               <div class="cert-thumb-box">
@@ -619,6 +625,12 @@ sections:
                 <img src="/media/albums/certifications/management_leadership/certificateofcompletion_why_projects_fail_and_how_to_improve_their_success_thumb.webp" class="cert-thumb-img" />
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Why Projects Fail and How to Improve Their Success</span>
+            </a>
+            <a href="/media/albums/certifications/management_leadership/is_college_still_worth_it_real_answers_about_careers_and_the_future_of_work_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/management_leadership/is_college_still_worth_it_real_answers_about_careers_and_the_future_of_work_large.webp', 'management-leadership');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="management-leadership">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/management_leadership/is_college_still_worth_it_real_answers_about_careers_and_the_future_of_work_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Is College Still Worth It?</span>
             </a>
             <a href="/media/albums/certifications/management_leadership/107383559_10223947804509624_2797494995150696872_n_10223947804469623_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/management_leadership/107383559_10223947804509624_2797494995150696872_n_10223947804469623_large.webp', 'management-leadership');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="management-leadership">
               <div class="cert-thumb-box">

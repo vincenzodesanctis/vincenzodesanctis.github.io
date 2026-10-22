@@ -1,10 +1,10 @@
 ---
-title: "Software & Development (59)"
+title: "Software & Development (61)"
 type: landing
 sections:
   - block: markdown
     content:
-      title: "Software & Development (59)"
+      title: "Software & Development (61)"
       text: |
         <div class="full-bleed mt-8 mb-12 not-prose">
           <div class="cert-grid">
@@ -97,6 +97,18 @@ sections:
                 <img src="/media/albums/certifications/software_development/python_function_cybersec_thumb.webp" class="cert-thumb-img" />
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Python Functions and Libraries for Cybersecurity</span>
+            </a>
+            <a href="/media/albums/certifications/software_development/c_foundations___pointers_and_memory_management_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/software_development/c_foundations___pointers_and_memory_management_large.webp', 'software-development');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="software-development">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/software_development/c_foundations___pointers_and_memory_management_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">C Foundations: Pointers & Memory Management</span>
+            </a>
+            <a href="/media/albums/certifications/software_development/resource_development_with_gdb_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/software_development/resource_development_with_gdb_large.webp', 'software-development');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="software-development">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/software_development/resource_development_with_gdb_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Resource Development with GDB</span>
             </a>
             <a href="/media/albums/certifications/software_development/haskell_programming_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/software_development/haskell_programming_large.webp', 'software-development');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="software-development">
               <div class="cert-thumb-box">

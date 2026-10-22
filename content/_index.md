@@ -49,7 +49,7 @@ sections:
       title: 'Professional Credentials'
       subtitle: '30 years of continuous learning and validated expertise.'
       text: |-
-        Over three decades, I have earned more than <a href="/certifications/" style="text-decoration: none !important; font-weight: bold; color: inherit;"><span class="text-primary-600 dark:text-primary-400 font-bold">474 verified credentials</span></a> across Cloud Computing (AWS, Azure, GCP), Cybersecurity (CompTIA, ISC2, eJPT), Project Management (Six Sigma, PMI), and Data Science. Each certification reflects my commitment to staying at the forefront of technology.
+        Over three decades, I have earned more than <a href="/certifications/" style="text-decoration: none !important; font-weight: bold; color: inherit;"><span class="text-primary-600 dark:text-primary-400 font-bold">538 verified credentials</span></a> across Cloud Computing (AWS, Azure, GCP), Cybersecurity (CompTIA, ISC2, eJPT), Project Management (Six Sigma, PMI), and Data Science. Each certification reflects my commitment to staying at the forefront of technology.
       button:
         text: Explore All Credentials
         url: /certifications/

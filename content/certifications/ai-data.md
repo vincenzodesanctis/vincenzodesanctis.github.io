@@ -1,10 +1,10 @@
 ---
-title: "AI & Data Science (51)"
+title: "AI & Data Science (57)"
 type: landing
 sections:
   - block: markdown
     content:
-      title: "AI & Data Science (51)"
+      title: "AI & Data Science (57)"
       text: |
         <div class="full-bleed mt-8 mb-12 not-prose">
           <div class="cert-grid">
@@ -121,6 +121,24 @@ sections:
                 <img src="/media/albums/certifications/ai_data/coursera_89z427x3txf2_thumb.webp" class="cert-thumb-img" />
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Python Project for data Science</span>
+            </a>
+            <a href="/media/albums/certifications/ai_data/aws_generative_ai_essentials_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/ai_data/aws_generative_ai_essentials_large.webp', 'ai-data');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="ai-data">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/ai_data/aws_generative_ai_essentials_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS Generative AI Essentials</span>
+            </a>
+            <a href="/media/albums/certifications/ai_data/generative_ai_applications_with_amazon_bedrock_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/ai_data/generative_ai_applications_with_amazon_bedrock_large.webp', 'ai-data');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="ai-data">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/ai_data/generative_ai_applications_with_amazon_bedrock_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Generative AI with Amazon Bedrock</span>
+            </a>
+            <a href="/media/albums/certifications/ai_data/getting_started_with_aws_generative_ai_for_developers_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/ai_data/getting_started_with_aws_generative_ai_for_developers_large.webp', 'ai-data');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="ai-data">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/ai_data/getting_started_with_aws_generative_ai_for_developers_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS Generative AI for Developers</span>
             </a>
             <a href="/media/albums/certifications/ai_data/48950520_10218312476789953_4372679515130822656_n_10218312476709951_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/ai_data/48950520_10218312476789953_4372679515130822656_n_10218312476709951_large.webp', 'ai-data');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="ai-data">
               <div class="cert-thumb-box">
@@ -313,6 +331,24 @@ sections:
                 <img src="/media/albums/certifications/ai_data/39580557_10217300372887988_4563285439263277056_n_10217300372767985_thumb.webp" class="cert-thumb-img" />
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Intenet of Things dal tuo sensore a Microsoft Azure</span>
+            </a>
+            <a href="/media/albums/certifications/ai_data/perplexity___advanced_features_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/ai_data/perplexity___advanced_features_large.webp', 'ai-data');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="ai-data">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/ai_data/perplexity___advanced_features_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Perplexity - Advanced Features</span>
+            </a>
+            <a href="/media/albums/certifications/ai_data/everything_you_need_to_know_about_the_aws_certified_ai_practitioner_exam_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/ai_data/everything_you_need_to_know_about_the_aws_certified_ai_practitioner_exam_large.webp', 'ai-data');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="ai-data">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/ai_data/everything_you_need_to_know_about_the_aws_certified_ai_practitioner_exam_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS Certified AI Practitioner Exam Prep</span>
+            </a>
+            <a href="/media/albums/certifications/ai_data/everything_you_need_to_know_about_the_aws_certified_machine_learning_engineer___associate_exam_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/ai_data/everything_you_need_to_know_about_the_aws_certified_machine_learning_engineer___associate_exam_large.webp', 'ai-data');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="ai-data">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/ai_data/everything_you_need_to_know_about_the_aws_certified_machine_learning_engineer___associate_exam_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS Certified ML Engineer Exam Prep</span>
             </a>
           </div>
         </div>

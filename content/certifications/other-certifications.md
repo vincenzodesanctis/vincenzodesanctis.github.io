@@ -1,10 +1,10 @@
 ---
-title: "Other (7)"
+title: "Other (9)"
 type: landing
 sections:
   - block: markdown
     content:
-      title: "Other (7)"
+      title: "Other (9)"
       text: |
         <div class="full-bleed mt-8 mb-12 not-prose">
           <div class="cert-grid">
@@ -49,6 +49,18 @@ sections:
                 <img src="/media/albums/certifications/other_certifications/95353443_10223227676306869_8948776897672642560_n_10223227676266868_thumb.webp" class="cert-thumb-img" />
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Class 12 Physiscs</span>
+            </a>
+            <a href="/media/albums/certifications/other_certifications/foundations_of_financial_engineering_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/other_certifications/foundations_of_financial_engineering_large.webp', 'other-certifications');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="other-certifications">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/other_certifications/foundations_of_financial_engineering_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Foundations of Financial Engineering</span>
+            </a>
+            <a href="/media/albums/certifications/other_certifications/pluralsight_skills_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/other_certifications/pluralsight_skills_large.webp', 'other-certifications');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="other-certifications">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/other_certifications/pluralsight_skills_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Pluralsight Skills</span>
             </a>
           </div>
         </div>
