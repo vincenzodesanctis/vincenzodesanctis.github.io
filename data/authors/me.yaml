@@ -43,16 +43,16 @@ links:
 education:
     - degree: MS Cybersecurity
       institution: Georgia Institute of Technology
-      start: 2026-01-12
+      start: 2026-01
       end: [present]
     - degree: MS Financial Engineering
       institution: WorldQuant University
-      start: 2026-03-20
+      start: 2026-03
       end: [present]
     - degree: BS Computer Science
       institution: University of the People
-      start: 2022-01-27
-      end: 2025-04-02
+      start: 2022-01
+      end: 2025-04
 
 interests:
   - AI for Cyber Defense
