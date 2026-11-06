@@ -13,6 +13,7 @@ MANUAL_ORDER = [
     "comptia_cysa+_ce_certificate",
     "comptia_pentest+_ce_certificate",
     "comptia_security+_ce_certificate",
+    "certified_corporate_cybersecurity_executive_(cn_ccbe)",
     "gccep",
     "examejpt",
     "splunk",
@@ -105,7 +106,6 @@ MANUAL_ORDER = [
     "166964926_10226252400243077_3539928419085777073_n_10226252400203076",
     "arcx___cyber_threat_intelligence_101",
     "183606336_10226545560891910_1129668687255792553_n_10226545560851909",
-
     "aisec___introduction_to_ai_security",
     "certified_llm_security_expert_(cllmse)",
     "certified_llm_security_professional_(cllmsp)",
@@ -114,6 +114,8 @@ MANUAL_ORDER = [
     "cwl_certified_ai_security_fundamentals",
     "cybersecurity_architecture_mindset_unlocked___secure_design_mastery",
     "hackviser___core",
+    "sase_advanced_security",
+    "mitre_att&ck_security_stack_mappings___aws",
 
     # --- Cloud & Infrastructure ---
     "aws_certified_solutions_architect___associate_certificate_1_1", 
@@ -213,6 +215,7 @@ MANUAL_ORDER = [
     "48423890_10218310912870856_9148200698901430272_n_10218310912790854",
     "coursera_ibm_data_science",
     "coursera_google_data_analytics",
+    "aws_generative_ai_and_ai_agents_with_amazon_bedrock",
     "ai_governance_certification_ai_security_governance_certification_videsan.pdf",
     "48164903_10218184051619404_133587750786957312_n_10218184051459400",
     "48171339_10218193282530171_8780459414265004032_n_10218193282490170",
@@ -230,8 +233,9 @@ MANUAL_ORDER = [
     "coursera_7ps9x3uggg68",
     "coursera_89z427x3txf2",
     "aws_generative_ai_essentials",
-    "generative_ai_applications_with_amazon_bedrock",
     "getting_started_with_aws_generative_ai_for_developers",
+    "generative_ai_applications_with_amazon_bedrock",
+    "amazon_bedrock_customization,_optimization_&_automation",
     "48950520_10218312476789953_4372679515130822656_n_10218312476709951",
     "49056699_10218319011233310_6263839978762010624_n_10218319011153308",
     "49444819_10218311450404294_3949854295670652928_n_10218311450324292",

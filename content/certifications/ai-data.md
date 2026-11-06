@@ -1,10 +1,10 @@
 ---
-title: "AI & Data Science (57)"
+title: "AI & Data Science (59)"
 type: landing
 sections:
   - block: markdown
     content:
-      title: "AI & Data Science (57)"
+      title: "AI & Data Science (59)"
       text: |
         <div class="full-bleed mt-8 mb-12 not-prose">
           <div class="cert-grid">
@@ -25,6 +25,12 @@ sections:
                 <img src="/media/albums/certifications/ai_data/coursera_google_data_analytics_thumb.webp" class="cert-thumb-img" />
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Google Data Analytics</span>
+            </a>
+            <a href="/media/albums/certifications/ai_data/aws_generative_ai_and_ai_agents_with_amazon_bedrock_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/ai_data/aws_generative_ai_and_ai_agents_with_amazon_bedrock_large.webp', 'ai-data');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="ai-data">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/ai_data/aws_generative_ai_and_ai_agents_with_amazon_bedrock_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS Generative AI and AI Agents with Amazon Bedrock</span>
             </a>
             <a href="/media/albums/certifications/ai_data/ai_governance_certification_ai_security_governance_certification_videsan.pdf_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/ai_data/ai_governance_certification_ai_security_governance_certification_videsan.pdf_large.webp', 'ai-data');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="ai-data">
               <div class="cert-thumb-box">
@@ -128,17 +134,23 @@ sections:
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS Generative AI Essentials</span>
             </a>
+            <a href="/media/albums/certifications/ai_data/getting_started_with_aws_generative_ai_for_developers_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/ai_data/getting_started_with_aws_generative_ai_for_developers_large.webp', 'ai-data');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="ai-data">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/ai_data/getting_started_with_aws_generative_ai_for_developers_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS Generative AI for Developers</span>
+            </a>
             <a href="/media/albums/certifications/ai_data/generative_ai_applications_with_amazon_bedrock_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/ai_data/generative_ai_applications_with_amazon_bedrock_large.webp', 'ai-data');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="ai-data">
               <div class="cert-thumb-box">
                 <img src="/media/albums/certifications/ai_data/generative_ai_applications_with_amazon_bedrock_thumb.webp" class="cert-thumb-img" />
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Generative AI with Amazon Bedrock</span>
             </a>
-            <a href="/media/albums/certifications/ai_data/getting_started_with_aws_generative_ai_for_developers_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/ai_data/getting_started_with_aws_generative_ai_for_developers_large.webp', 'ai-data');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="ai-data">
+            <a href="/media/albums/certifications/ai_data/amazon_bedrock_customization,_optimization_&_automation_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/ai_data/amazon_bedrock_customization,_optimization_&_automation_large.webp', 'ai-data');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="ai-data">
               <div class="cert-thumb-box">
-                <img src="/media/albums/certifications/ai_data/getting_started_with_aws_generative_ai_for_developers_thumb.webp" class="cert-thumb-img" />
+                <img src="/media/albums/certifications/ai_data/amazon_bedrock_customization,_optimization_&_automation_thumb.webp" class="cert-thumb-img" />
               </div>
-              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">AWS Generative AI for Developers</span>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Amazon Bedrock Customization, Optimization & Automation</span>
             </a>
             <a href="/media/albums/certifications/ai_data/48950520_10218312476789953_4372679515130822656_n_10218312476709951_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/ai_data/48950520_10218312476789953_4372679515130822656_n_10218312476709951_large.webp', 'ai-data');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="ai-data">
               <div class="cert-thumb-box">

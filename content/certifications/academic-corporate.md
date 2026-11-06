@@ -1,10 +1,10 @@
 ---
-title: "Academic & Corporate Training (12)"
+title: "Academic & Corporate Training (13)"
 type: landing
 sections:
   - block: markdown
     content:
-      title: "Academic & Corporate Training (12)"
+      title: "Academic & Corporate Training (13)"
       text: |
         <div class="full-bleed mt-8 mb-12 not-prose">
           <div class="cert-grid">
@@ -79,6 +79,12 @@ sections:
                 <img src="/media/albums/certifications/academic_corporate/wwos___amazon_thumb.webp" class="cert-thumb-img" />
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Armer aggressor preparedness & response 2026</span>
+            </a>
+            <a href="/media/albums/certifications/academic_corporate/perspectives_by_cdi_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/academic_corporate/perspectives_by_cdi_large.webp', 'academic-corporate');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="academic-corporate">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/academic_corporate/perspectives_by_cdi_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Perspectives By Cdi</span>
             </a>
           </div>
         </div>

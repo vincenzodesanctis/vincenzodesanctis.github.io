@@ -75,6 +75,8 @@ TITLE_MAPPING = {
     "generative_ai_applications_with_amazon_bedrock": "Generative AI with Amazon Bedrock",
     "getting_started_with_aws_generative_ai_for_developers": "AWS Generative AI for Developers",
     "perplexity___advanced_features": "Perplexity - Advanced Features",
+    "aws_generative_ai_and_ai_agents_with_amazon_bedrock": "AWS Generative AI and AI Agents with Amazon Bedrock",
+    "amazon_bedrock_customization,_optimization_&_automation": "Amazon Bedrock Customization, Optimization & Automation",
 
 
     # --- Cloud Infrastructure ---
@@ -280,6 +282,9 @@ TITLE_MAPPING = {
     "security_risks_and_privacy_concerns_using_generative_ai": "Security Risks and Privacy in Generative AI",
     "specialized_exploits___stack_overflows": "Specialized Exploits: Stack Overflows",
     "windows_buffer_overflow_walkthrough": "Windows Buffer Overflow Walkthrough",
+    "sase_advanced_security": "SASE Advanced Security",
+    "mitre_att&ck_security_stack_mappings___aws": "MITRE ATT&CK Security Stack Mappings - AWS",
+    "certified_corporate_cybersecurity_executive_(cn_ccbe)": "Certified Corporate Cybersecurity Executive (CN-CCBE)",
 
     # --- Management Leadership ---
     "107383559_10223947804509624_2797494995150696872_n_10223947804469623": "Systems Thinking",

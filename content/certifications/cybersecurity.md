@@ -1,10 +1,10 @@
 ---
-title: "Cybersecurity (109)"
+title: "Cybersecurity (112)"
 type: landing
 sections:
   - block: markdown
     content:
-      title: "Cybersecurity (109)"
+      title: "Cybersecurity (112)"
       text: |
         <div class="full-bleed mt-8 mb-12 not-prose">
           <div class="cert-grid">
@@ -61,6 +61,12 @@ sections:
                 <img src="/media/albums/certifications/cybersecurity/comptia_security+_ce_certificate_thumb.webp" class="cert-thumb-img" />
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">CompTIA Security+ CE Certificate</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/certified_corporate_cybersecurity_executive_(cn_ccbe)_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/certified_corporate_cybersecurity_executive_(cn_ccbe)_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/certified_corporate_cybersecurity_executive_(cn_ccbe)_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Certified Corporate Cybersecurity Executive (CN-CCBE)</span>
             </a>
             <a href="/media/albums/certifications/cybersecurity/gccep_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/gccep_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
               <div class="cert-thumb-box">
@@ -661,6 +667,18 @@ sections:
                 <img src="/media/albums/certifications/cybersecurity/hackviser___core_thumb.webp" class="cert-thumb-img" />
               </div>
               <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">Hackviser - Core</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/sase_advanced_security_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/sase_advanced_security_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/sase_advanced_security_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">SASE Advanced Security</span>
+            </a>
+            <a href="/media/albums/certifications/cybersecurity/mitre_att&ck_security_stack_mappings___aws_large.webp" onclick="event.preventDefault(); openMyLightbox('/media/albums/certifications/cybersecurity/mitre_att&ck_security_stack_mappings___aws_large.webp', 'cybersecurity');" class="block transition-transform duration-200 hover:scale-[1.02]" data-gallery="cybersecurity">
+              <div class="cert-thumb-box">
+                <img src="/media/albums/certifications/cybersecurity/mitre_att&ck_security_stack_mappings___aws_thumb.webp" class="cert-thumb-img" />
+              </div>
+              <span class="text-xs text-center mt-2 block text-gray-700 dark:text-gray-300 w-full px-1" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">MITRE ATT&CK Security Stack Mappings - AWS</span>
             </a>
           </div>
         </div>
